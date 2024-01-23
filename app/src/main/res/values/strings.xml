@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RMEET prototype</string>
+    <string name="name">Name</string>
+    <string name="register">Register\n</string>
+    <string name="email">Enter email</string>
+    <string name="password">Enter password</string>
+    <string name="male">Male\n</string>
+    <string name="female">Female</string>
+</resources>
